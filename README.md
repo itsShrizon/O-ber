@@ -10,7 +10,7 @@ O-ber is a robust backend system for a ride-sharing application, built with Djan
 - **Async Tasks:** Celery with Redis
 - **Containerization:** Docker & Docker Compose
 - **Authentication:** JWT (SimpleJWT)
-- **KYC Service:** FastAPI based (Optional microservice)
+- **KYC Service:** FastAPI based (microservice)
 
 ## 📂 Project Structure
 
